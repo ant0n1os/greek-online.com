@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:Сиурдакис;Стратос;;;
+FN;CHARSET=UTF-8:Стратос Сиурдакис
+ORG;CHARSET=UTF-8:Центр греческого языка Стратоса Сиурдакиса
+TITLE;CHARSET=UTF-8:Основатель центра
+TEL;TYPE=CELL,VOICE:+79217578178
+EMAIL;TYPE=INTERNET,WORK:stratos.siourdakis@greek-online.com
+URL:https://greek-online.com
+ADR;TYPE=WORK;CHARSET=UTF-8:;;ул. Шпалерная, д. 39;Санкт-Петербург;;;Россия
+END:VCARD
